@@ -6,5 +6,6 @@ public class User {
     private String bb;
     private Integer cc;
     private String dd;
+    private Double ee;
 
 }
